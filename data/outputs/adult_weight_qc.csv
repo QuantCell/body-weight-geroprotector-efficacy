@@ -1,0 +1,19 @@
+cohort,site,id,sex,group,weight_age_months,source_weight_g,analysis_weight_g,excluded,rule
+C2011,TJL,JL07624,f,Control,6,361.0,,True,outside 10-100 g
+C2021,TJL,JL23127,m,M160,12,90.0,90.0,False,within 10-100 g
+C2005,UM,UM11783,m,Enal,18,5.0,,True,outside 10-100 g
+C2006,UT,UT2639,f,Sim_lo,18,8.0,,True,outside 10-100 g
+C2014,UT,UT07018,f,Asp_200,18,80.400002,80.400002,False,within 10-100 g
+C2017,UM,UM73073,f,BD,18,91.1,91.1,False,within 10-100 g
+C2017,UM,UM72639,f,Leu,18,86.6,86.6,False,within 10-100 g
+C2017,UM,UM72184,f,Syr,18,98.3,98.3,False,within 10-100 g
+C2020,UM,UM99330,f,AKG_18,18,81.3,81.3,False,within 10-100 g
+C2009,UT,UT04168,f,Control,24,82.900002,82.900002,False,within 10-100 g
+C2009,UT,UT03808,f,MB,24,81.800003,81.800003,False,within 10-100 g
+C2017,UM,UM77217,f,Leu,24,80.9,80.9,False,within 10-100 g
+C2019,UM,UM92757,m,DMF_9,24,503.0,,True,outside 10-100 g
+C2020,UM,UM95620,f,AKG_18,24,504.0,,True,outside 10-100 g
+C2020,UM,UM96334,m,HYD_16,24,6.1,,True,outside 10-100 g
+C2020,UM,UM98637,m,HYD_16,24,414.0,,True,outside 10-100 g
+C2020,UM,UM95977,f,THIO,24,314.0,,True,outside 10-100 g
+C2021,UM,UM105301,m,Epi,24,534.0,,True,outside 10-100 g

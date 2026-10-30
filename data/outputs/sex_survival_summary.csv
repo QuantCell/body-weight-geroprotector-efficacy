@@ -1,0 +1,8 @@
+cohort_set,sex,n,cohorts,km_median_days,day500_mortality_pct,day500_mortality_all_events_pct
+all_17_cohorts,male,5352.0,17.0,800.0,16.040501965562303,20.5904334828101
+all_17_cohorts,female,4833.0,17.0,886.0,2.392889452405711,3.000206910821457
+all_17_cohorts,female_minus_male,,,86.0,-13.647612513156592,
+published_six_cohorts,male,1993.0,6.0,803.0,14.337962128097415,18.063221274460616
+published_six_cohorts,female,1697.0,6.0,887.0,2.622467135983486,3.889216263995343
+published_six_cohorts,female_minus_male,,,84.0,-11.715494992113928,
+DRiDO_ad_libitum,female,188.0,1.0,762.0,12.234042553191514,12.234042553191514

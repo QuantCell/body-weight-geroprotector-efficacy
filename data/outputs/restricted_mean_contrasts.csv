@@ -1,0 +1,3 @@
+"grouping","horizon_age_days","bootstrap_replicates","heaviest_minus_lightest_gain_days","lo","hi"
+"separate_ranks",1000,2000,51.5994769358049,26.729545111092,76.8655653429958
+"common_control_thresholds",1000,2000,52.4481478455182,27.2791590543831,78.433873258845

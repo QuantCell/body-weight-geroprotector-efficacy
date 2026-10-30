@@ -1,0 +1,3 @@
+"sex","analysis","cells","control_clusters","hr_per_sd","ci_low","ci_high","p"
+"m","within_cohort_shared_control_clustered",273,50,0.963367414912448,0.930781941857436,0.997093663273114,0.0341256644957255
+"f","within_cohort_shared_control_clustered",261,50,1.02068355199746,0.983537200483477,1.05923285139194,0.272522607453422

@@ -1,0 +1,6 @@
+*.py[cod]
+.Rhistory
+.RData
+.DS_Store
+__pycache__/
+data/derived/

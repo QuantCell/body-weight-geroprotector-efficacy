@@ -1,0 +1,5 @@
+strain,sex,mean_weight_g,reported_weight_g,mean_age_weeks,n,mpd_project,weight_measure,age_measure,source_url
+BALB/cByJ,m,32.05,32.0,31.5,10,Reed1,32603,32680,https://phenome.jax.org/projects/Reed1
+C57BL/6J,m,30.8,30.8,30.2727,11,Reed1,32603,32680,https://phenome.jax.org/projects/Reed1
+C3H/HeJ,m,26.7417,26.7,31.5,12,Reed1,32603,32680,https://phenome.jax.org/projects/Reed1
+DBA/2J,m,28.1167,28.1,31.5,12,Reed1,32603,32680,https://phenome.jax.org/projects/Reed1

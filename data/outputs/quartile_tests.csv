@@ -1,0 +1,4 @@
+model_set,analysis,experiments,comparison_rows,unique_mice,HR_per_quartile,lo,hi,p,grouping,sites_by_experiment,estimate,lower_95,upper_95,compounds
+matched_quartiles,within-experiment-site matched quartile trend,30,13044,8137,0.908736572154869,0.867788678116464,0.951616653220442,4.73801385157838e-05,,,,,,
+common_control_thresholds,control-derived cut-offs in both groups,30,12942,8137,0.915001221020178,0.873476035779647,0.958500519961174,0.000177764286181267,common_control_thresholds,88,,,,
+compound_common_interaction,pooled_common_interaction,26,,7238,,,,0.000110611357339295,,,0.896446527074247,0.848117026019043,0.947530059236701,14

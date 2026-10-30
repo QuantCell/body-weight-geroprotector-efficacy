@@ -1,0 +1,3 @@
+population,study,genotype_or_strain,diet,metric,male_survival_days,female_survival_days,male_n,female_n,pmid,source_locator,female_minus_male_days
+Independent UM-HET3,Flurkey et al. 2010,UM-HET3,LabDiet 5K54,mean,831,836,14,16,20819793,Table 1,5
+Independent 5LG6 cohort,Fok et al. 2014,C57BL/6J,LabDiet 5LG6,median,804,865,40,45,24409289,Table S1,61
