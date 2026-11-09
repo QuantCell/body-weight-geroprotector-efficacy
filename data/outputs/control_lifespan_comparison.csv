@@ -1,0 +1,9 @@
+specification,sex,itp_n,itp_median_days,non_itp_n,non_itp_median_days,non_itp_reaching_itp_median,p_mannwhitney
+unique_control_groups,Female,18,891.0,17,814.8,0,2.54876798389977e-06
+unique_control_groups,Male,18,800.5,20,814.3,10,0.510578283333796
+study_level_median,Female,13,893.0,15,724.4,0,1.4821279511522008e-05
+study_level_median,Male,14,795.5,18,793.7,9,0.8642456216657517
+median_endpoints_only,Female,18,891.0,9,847.0,0,0.00028585741471593356
+median_endpoints_only,Male,18,800.5,9,912.1,5,0.29140221519480114
+published_2000_or_later,Female,18,891.0,12,841.5,0,3.645311233235512e-05
+published_2000_or_later,Male,18,800.5,14,835.0,8,0.1541486238309004

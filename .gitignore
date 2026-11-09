@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
+run.log
+data/derived/

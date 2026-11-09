@@ -1,0 +1,13 @@
+quantity,value
+male_controls,4983.0
+q1_mice,1221.0
+q1_dead_by_day_500_pct,6.148059129290817
+q2_mice,1256.0
+q2_dead_by_day_500_pct,10.9224693271041
+q3_mice,1241.0
+q3_dead_by_day_500_pct,17.242078453815225
+q4_mice,1265.0
+q4_dead_by_day_500_pct,27.44388596812192
+mean_lifespan_difference_days,195.25575217228868
+difference_from_mortality_before_day_500_days,100.99101571174896
+difference_from_mortality_before_day_500_pct,51.722427937814125
